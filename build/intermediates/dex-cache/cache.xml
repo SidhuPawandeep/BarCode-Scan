@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lENOVO\.android\build-cache\7a0f8db4da7ba59b01832b90588c303382e265c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="D:\CommitCode\barcodescanner-master\MyScanCode\app\build\intermediates\pre-dexed\debug\classes_1b6855f9adaf25f3d8217b488ff8134a9ef663da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lENOVO\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\CommitCode\barcodescanner-master\MyScanCode\app\build\intermediates\pre-dexed\debug\core-3.2.1_77ed8578706ce7b67445e39ffbaa81954a37484f.jar" />
+    </item>
+
+</items>
